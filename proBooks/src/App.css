@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+  flex: row;
+}
+.flex p{
+  margin-left: 3em;
+
+}
